@@ -1,0 +1,5 @@
+baseURL = 'https://mamorum.github.io/poem/'
+#locale = 'en-us'
+locale = 'ja-jp'
+title = '松永夜'
+theme = 'PaperMod'
