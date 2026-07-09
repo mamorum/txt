@@ -7,4 +7,4 @@ theme = 'PaperMod'
 
 [services]
   [services.googleAnalytics]
-    id = "G-9675B7814P"
+    id = 'G-9675B7814P'
