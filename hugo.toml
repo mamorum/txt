@@ -14,6 +14,9 @@ theme = "PaperMod"
       unsafe = true
       hardWraps = true
 
+[params]
+  ShowRssButtonInSectionTermList = true
+
 [params.homeInfoParams]
   Title = "詩の作品集"
   Content = """
@@ -22,3 +25,13 @@ theme = "PaperMod"
 - <a target="_blank" href="https://note.com/ma2yoru">Note</a>
 - [PrivacyPolicy]({{< relref "privacy" >}})
 """
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Archive"
+  url = "/archives/"
+  weight = 20
