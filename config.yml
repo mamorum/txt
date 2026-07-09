@@ -19,6 +19,7 @@ languages:
     weight: 1
 
 params:
+  mainSections: ["lyrics", "poems"]
   ShowRssButtonInSectionTermList: true
   showPostNavLinks: true
   homeInfoParams:
@@ -34,9 +35,15 @@ menu:
     - name: "Home"
       url: "/"
       weight: 1
+    - name: "Lyrics"
+      url: "/lyrics/"
+      weight: 2      
+    - name: "Poems"
+      url: "/poems/"
+      weight: 3
     - name: "Archive"
       url: "/archives/"
-      weight: 2
+      weight: 4
     - name: "Tags"
       url: "/tags/"
-      weight: 3
+      weight: 5
