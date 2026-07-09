@@ -3,3 +3,8 @@ baseURL = 'https://mamorum.github.io/poem/'
 locale = 'ja-jp'
 title = '松永夜'
 theme = 'PaperMod'
+
+
+[services]
+  [services.googleAnalytics]
+    id = "G-9675B7814P"
