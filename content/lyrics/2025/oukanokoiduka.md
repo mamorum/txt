@@ -1,5 +1,6 @@
 ---
 draft: false
+author: "ma-"
 date: "2025-08-21T21:40:00+09:00"
 tags: ["作詞"]
 title: "桜花之恋塚【作詞・二次創作】"
