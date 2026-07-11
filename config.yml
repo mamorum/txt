@@ -27,8 +27,8 @@ params:
     Content: |
       作詞をしたり、詩を書いたりしています。
       よろしくお願いします。
-      - <a target="_blank" href="https://x.com/ma2yoru">X (ma-)</a>
-      - <a target="_blank" href="https://x.com/ma134x">X (松永夜)</a>
+      - <a target="_blank" href="https://x.com/ma134x">X (ma-)</a>
+      - <a target="_blank" href="https://x.com/ma2yoru">X (松永夜)</a>
       - [Privacy Policy]({{< relref "privacy" >}})
 
 menu:
