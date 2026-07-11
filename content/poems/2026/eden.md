@@ -2,7 +2,7 @@
 draft: false
 author: "松永夜"
 date: "2026-06-21T00:45:00+09:00"
-tags: ["詩"]
+tags: ["創作", "詩"]
 title: "エデン【詩】"
 ---
 
