@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Meiryo, sans-serif;
+}
+.main .post-title {
+  font-size: 34px;
+}
+.main .post-content {
+  margin-top: 48px;
+  margin-bottom: 76px;
+}
+.main .post-content h2 {
+  margin-top: 58px;
+  margin-bottom: 22px;
+  font-size: 28px;
+}
+.main .md-content p {
+  line-height: 1.8;
+}
+.main .md-content p:not(:last-child) {
+  margin-bottom: 30px;
+}
