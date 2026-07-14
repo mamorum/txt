@@ -3,6 +3,10 @@ locale: "ja-jp"
 title: "ma- / 松永夜"
 theme: "PaperMod"
 
+pagination:
+  disableAliases: false
+  pagerSize: 4
+
 services:
   googleAnalytics:
     id: "G-9675B7814P"
@@ -21,7 +25,8 @@ languages:
 params:
   mainSections: ["lyrics", "poems"]
   ShowRssButtonInSectionTermList: true
-  showPostNavLinks: true
+  ShowPostNavLinks: true
+  ShowPageNums: true
   homeInfoParams:
     Title: "作品集"
     Content: |
