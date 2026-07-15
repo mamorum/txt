@@ -23,6 +23,7 @@ languages:
     weight: 1
 
 params:
+  env: production
   mainSections: ["lyrics", "poems"]
   ShowRssButtonInSectionTermList: true
   ShowPostNavLinks: true
