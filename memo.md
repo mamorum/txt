@@ -15,3 +15,11 @@
 ```
 hugo new posts/2026/title.md
 ```
+
+
+## Bing Webmaster認証
+- static/BingSiteAuth.xml
+
+
+## Google Search Console認証
+- static/googledcf140d3749d5a2c.html
