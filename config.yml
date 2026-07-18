@@ -3,13 +3,16 @@ locale: "ja-jp"
 title: "ma- / 松永夜"
 theme: "PaperMod"
 
-pagination:
-  disableAliases: false
-  pagerSize: 5
+languages:
+  ja:
+    label: "日本語"
+    weight: 1
 
 services:
   googleAnalytics:
     id: "G-9675B7814P"
+  rss:
+    limit: 20
 
 markup:
   goldmark:
@@ -17,10 +20,12 @@ markup:
       unsafe: true
       hardWraps: true
 
-languages:
-  ja:
-    label: "日本語"
-    weight: 1
+pagination:
+  disableAliases: false
+  pagerSize: 5
+
+hasCJKLanguage: true
+summaryLength: 20
 
 params:
   env: production
