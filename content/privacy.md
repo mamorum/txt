@@ -2,6 +2,8 @@
 date: "2026-06-15T22:30:00+09:00"
 draft: false
 title: "プライバシーポリシー"
+_build:
+  list: local
 ---
 
 
